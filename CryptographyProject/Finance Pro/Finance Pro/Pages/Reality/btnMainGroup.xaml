@@ -1,0 +1,552 @@
+﻿<UserControl x:Class="Finance_Pro.Pages.Reality.btnMainGroup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Finance_Pro.Pages.Reality"
+             xmlns:mv="clr-namespace:Finance_Pro.ViewModels"
+             mc:Ignorable="d" Width="700" Height="700">
+    <UserControl.DataContext>
+        <mv:ListExpensesVM />
+    </UserControl.DataContext>
+    <UserControl.Resources>
+        
+        <Style TargetType="{x:Type Path}">
+            <Setter Property="Height" Value="15"/>
+            <Setter Property="Width" Value="15"/>
+            <Setter Property="Stretch" Value="Uniform"/>
+            <Setter Property="Fill">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0,0" StartPoint="1,1">
+                        <GradientStop Color="#FF1C9DAD" Offset="0.077"/>
+                        <GradientStop Color="#FFC80BE8" Offset="0.993"/>
+                        <GradientStop Color="#FEF10E0E" Offset="0.994"/>
+                        <GradientStop Color="#FFDE6E20" Offset="0.025"/>
+                        <GradientStop Color="#FFE030E0" Offset="0.127"/>
+                        <GradientStop Color="#FE23DAAC" Offset="0.303"/>
+                        <GradientStop Color="#FE1343D6" Offset="0.437"/>
+                        <GradientStop Color="#FEF10E0E" Offset="0.511"/>
+                        <GradientStop Color="#FEEAFF27" Offset="0.588"/>
+                        <GradientStop Color="#FE9419ED" Offset="0.673"/>
+                        <GradientStop Color="#FED82D12" Offset="0.739"/>
+                        <GradientStop Color="#FE00FFED" Offset="0.82"/>
+                        <GradientStop Color="#FE9A7BE0" Offset="0.905"/>
+                        <GradientStop Color="#FE77FCFF" Offset="0.183"/>
+                        <GradientStop Color="#FD090CF3" Offset="0.239"/>
+                        <GradientStop Color="#FE5F10F1" Offset="0.363"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+                </Setter>
+            <Setter Property="Stroke">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0,0" StartPoint="1,1">
+                        <GradientStop Color="#FF1C9DAD" Offset="0.077"/>
+                        <GradientStop Color="#FFC80BE8" Offset="0.993"/>
+                        <GradientStop Color="#FEF10E0E" Offset="0.994"/>
+                        <GradientStop Color="#FFDE6E20" Offset="0.025"/>
+                        <GradientStop Color="#FFE030E0" Offset="0.127"/>
+                        <GradientStop Color="#FE23DAAC" Offset="0.303"/>
+                        <GradientStop Color="#FE1343D6" Offset="0.437"/>
+                        <GradientStop Color="#FEF10E0E" Offset="0.511"/>
+                        <GradientStop Color="#FEEAFF27" Offset="0.588"/>
+                        <GradientStop Color="#FE9419ED" Offset="0.673"/>
+                        <GradientStop Color="#FED82D12" Offset="0.739"/>
+                        <GradientStop Color="#FE00FFED" Offset="0.82"/>
+                        <GradientStop Color="#FE9A7BE0" Offset="0.905"/>
+                        <GradientStop Color="#FE77FCFF" Offset="0.183"/>
+                        <GradientStop Color="#FD090CF3" Offset="0.239"/>
+                        <GradientStop Color="#FE5F10F1" Offset="0.363"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+
+
+        </Style>
+
+
+        <Style x:Key="IconButtonStyles" TargetType="{x:Type RepeatButton}" >
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Width" Value="20"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RepeatButton}">
+                        <Border Background="{TemplateBinding Background}">
+                            <Path 
+                         HorizontalAlignment="{TemplateBinding HorizontalAlignment}"
+                         VerticalAlignment="{TemplateBinding VerticalAlignment}"
+                         Data="{TemplateBinding Content}"
+                                StrokeThickness="6"
+                         Style="{StaticResource {x:Type Path}}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <local:ScrollLimitConverter x:Key="scrollLimitConverter"></local:ScrollLimitConverter>
+
+        <ImageBrush x:Key="UpArrow_Default" 
+                    ImageSource="pack://application:,,,/Assets/heartupsideup.png"/>
+
+        <ImageBrush x:Key="DownArrow_Default"
+                    ImageSource="pack://application:,,,/Assets/heartupsidedown.png"/>
+        
+        <Style TargetType="ScrollBar">
+
+            <Setter Property="SnapsToDevicePixels"
+              Value="True"/>
+            <Setter Property="OverridesDefaultStyle"
+              Value="True"/>
+
+            <!--// Style Trigger //-->
+
+            <Style.Triggers>
+
+                <Trigger Property="Orientation"
+                   Value="Vertical">
+
+                    <Setter Property="Width"
+                      Value="30"/>
+                    <Setter Property="Height"
+                      Value="190"/>
+
+                    <!--// Create a style template for the scrollbar //-->
+
+                    <Setter Property="Template"
+                      Value="{DynamicResource VerticalScrollBar}"/>
+
+                </Trigger>
+
+            </Style.Triggers>
+
+        </Style>
+        
+        <ControlTemplate x:Key="VerticalScrollBar"
+                    TargetType="{x:Type ScrollBar}">
+
+            <Grid >
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!--// Border with a background //-->
+
+                <Border
+               Grid.Row="1"
+               CornerRadius="5"
+                    Margin="13,2,13,2">
+                    <Border.Background>
+                        <LinearGradientBrush EndPoint="0,0" StartPoint="1,1">
+                            <GradientStop Color="#FF1C9DAD" Offset="0.077"/>
+                            <GradientStop Color="#FFC80BE8" Offset="0.993"/>
+                            <GradientStop Color="#FEF10E0E" Offset="0.994"/>
+                            <GradientStop Color="#FFDE6E20" Offset="0.025"/>
+                            <GradientStop Color="#FFE030E0" Offset="0.127"/>
+                            <GradientStop Color="#FE23DAAC" Offset="0.303"/>
+                            <GradientStop Color="#FE1343D6" Offset="0.437"/>
+                            <GradientStop Color="#FEF10E0E" Offset="0.511"/>
+                            <GradientStop Color="#FEEAFF27" Offset="0.588"/>
+                            <GradientStop Color="#FE9419ED" Offset="0.673"/>
+                            <GradientStop Color="#FED82D12" Offset="0.739"/>
+                            <GradientStop Color="#FE00FFED" Offset="0.82"/>
+                            <GradientStop Color="#FE9A7BE0" Offset="0.905"/>
+                            <GradientStop Color="#FE77FCFF" Offset="0.183"/>
+                            <GradientStop Color="#FD090CF3" Offset="0.239"/>
+                            <GradientStop Color="#FE5F10F1" Offset="0.363"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+                </Border>
+
+                <!--// Repeat Button - Up Arrow Button //-->
+
+                <RepeatButton
+               x:Name="rb_Up"
+               Focusable="False"
+               Command="ScrollBar.LineUpCommand"
+               Content="{StaticResource Up}"
+               Style="{StaticResource IconButtonStyles}">
+                </RepeatButton>
+
+                <!--// Repeat Button - Down Arrow Button //-->
+
+                <RepeatButton
+               x:Name="rb_Down"
+               Grid.Row="2"
+               Focusable="False"
+               Command="ScrollBar.LineDownCommand"
+               Content="{StaticResource Down}"
+               Style="{StaticResource IconButtonStyles}">
+                </RepeatButton>
+
+                <!--// Track - Container for the element that indicates 
+                      the position of the scrollbar //-->
+
+                <Track
+               Name="PART_Track"
+               Grid.Row="1"
+               IsDirectionReversed="True">
+                    <Track.DecreaseRepeatButton>
+                        <RepeatButton
+                       Command="ScrollBar.PageUpCommand"          
+                       Style="{StaticResource ScrollBar_Track}"/>
+                    </Track.DecreaseRepeatButton>
+
+                    <!--// Thumb - Control that can be dragged by the user //-->
+
+                    <Track.Thumb>
+
+                        <Thumb
+                       
+                       Style="{StaticResource ScrollBar_Thumb}">
+
+                        </Thumb>
+
+                    </Track.Thumb>
+
+                    <Track.IncreaseRepeatButton>
+                        <RepeatButton
+                       Command="ScrollBar.PageDownCommand"
+                       Style="{StaticResource ScrollBar_Track}"/>
+                    </Track.IncreaseRepeatButton>
+
+                </Track>
+
+            </Grid>
+
+            <!--// Bind the Value Converter //-->
+
+            <ControlTemplate.Triggers>
+                <DataTrigger Binding="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=ScrollViewer}, Path=VerticalOffset}" Value="0">
+                    <Setter TargetName="rb_Up" Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+                <DataTrigger Value="True">
+                    <DataTrigger.Binding>
+                        <MultiBinding Converter="{StaticResource scrollLimitConverter}">
+                            <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=ScrollViewer}" Path="VerticalOffset"/>
+                            <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=ScrollViewer}" Path="ScrollableHeight"/>
+                        </MultiBinding>
+                    </DataTrigger.Binding>
+                    <Setter TargetName="rb_Down" Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+            </ControlTemplate.Triggers>
+
+
+        </ControlTemplate>
+
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ToggleButton
+           IsChecked="{Binding IsChecked}"
+            Width="150" 
+            Height="55"
+            Background="White">
+            <ToggleButton.Template>
+                <ControlTemplate TargetType="ToggleButton">
+                    <Border CornerRadius="5"
+                            Background="{TemplateBinding Background}">
+                        <ComboBox
+                            Background="Transparent"
+                            IsHitTestVisible="False"
+                            ItemsSource="{Binding CollecData}" 
+                            IsDropDownOpen="{Binding IsChecked, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}">
+                            <ComboBox.Template>
+                                <ControlTemplate TargetType="ComboBox">
+                                    <Grid >
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition />
+                                        </Grid.ColumnDefinitions>
+                                        <Image
+                                            Grid.Column="0"
+                                            Margin="5,0,0,0"
+                                            Width="40"
+                                            Height="40"
+                                            VerticalAlignment="Center"
+                                            HorizontalAlignment="Left"
+                                            Source="{Binding SelectedCategoryImage}"/>
+                                        <TextBlock
+                                            Text="{Binding SelectedCategoryName}"
+                                            Grid.Column="1"
+                                            FontWeight="SemiBold"
+                                            FontSize="20"
+                                            TextWrapping="Wrap"
+                                            TextAlignment="Center"
+                                            VerticalAlignment="Center"
+                                            HorizontalAlignment="Center"
+                                            Background="Transparent"/>
+                                        <!-- Popup để hiển thị danh sách {Binding ActualWidth, RelativeSource={RelativeSource AncestorType=ComboBox}}-->
+                                        <Popup
+                                            x:Name="Popup"
+                                            Width="170"
+                                            IsOpen="{TemplateBinding IsDropDownOpen}"
+                                            PlacementTarget="{Binding RelativeSource={RelativeSource TemplatedParent}}"                                    
+                                            HorizontalAlignment="Stretch"
+                                            AllowsTransparency="True"
+                                            PopupAnimation="Slide">
+                                            <ListBox
+                                                ItemsSource="{Binding CollecData}" 
+                                                SelectedValue="{Binding SelectedCategoryName}"
+                                                SelectedValuePath="Name"
+                                                Height="210">
+                                                <ListBox.Template>
+                                                    <ControlTemplate TargetType="ListBox">
+                                                        <Border
+                                                            BorderThickness="1" 
+                                                            BorderBrush="Blue" 
+                                                            CornerRadius="10" 
+                                                            Background="LightGray"
+                                                            Margin="0,3,0,0">
+                                                            <ScrollViewer >
+                                                                <ItemsPresenter />
+                                                            </ScrollViewer>
+                                                        </Border>
+                                                    </ControlTemplate>
+                                                </ListBox.Template>
+
+                                                <ListBox.ItemContainerStyle>
+                                                    <Style TargetType="ListBoxItem">
+                                                        <Setter Property="Focusable" Value="True" />
+                                                        <Setter Property="Template">
+                                                            <Setter.Value>
+                                                                <ControlTemplate TargetType="ListBoxItem">
+                                                                    <Border Background="WhiteSmoke" CornerRadius="5" Margin="5,2,0,2" x:Name="BorderElement">
+                                                                        <ContentPresenter />
+                                                                    </Border>
+
+                                                                    <ControlTemplate.Triggers>
+                                                                        <!-- Trigger khi di chuột qua (MouseOver) -->
+                                                                        <Trigger Property="IsMouseOver" Value="True">
+                                                                            <Setter TargetName="BorderElement" Property="Background" Value="LightBlue" />
+                                                                            <Setter TargetName="BorderElement" Property="BorderBrush" Value="Blue" />
+                                                                            <Setter TargetName="BorderElement" Property="BorderThickness" Value="1" />
+                                                                        </Trigger>
+                                                                    </ControlTemplate.Triggers>
+                                                                </ControlTemplate>
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </Style>
+                                                </ListBox.ItemContainerStyle>
+
+                                                <ListBox.ItemTemplate>
+                                                    <DataTemplate >
+                                                        <Button x:Name="select_Category" 
+                                                                Background="Transparent"
+                                                                Command="{Binding DataContext.ChooseCategory, RelativeSource={RelativeSource AncestorType=ListBox}}"
+                                                                CommandParameter="{Binding}">
+                                                            <Button.Template>
+                                                                <ControlTemplate TargetType="Button">
+                                                                    <Border CornerRadius="5" Margin="1" 
+                                                                            Width="130" 
+                                                                            Height="{TemplateBinding Height}"
+                                                                            Background="{TemplateBinding Background}">
+                                                                        <StackPanel Orientation="Horizontal">
+                                                                            <Image
+                                                                                Width="40" 
+                                                                                Height="40" 
+                                                                                Margin="2" 
+                                                                                Source="{Binding Image}" 
+                                                                                Stretch="Uniform"
+                                                                                VerticalAlignment="Center"/>
+                                                                            <TextBlock
+                                                                                Text="{Binding Name}" 
+                                                                                VerticalAlignment="Center" 
+                                                                                Foreground="Red" 
+                                                                                Margin="5" />
+                                                                        </StackPanel>
+                                                                    </Border>
+                                                                </ControlTemplate>
+                                                            </Button.Template>
+                                                        </Button>
+                                                    </DataTemplate>
+                                                </ListBox.ItemTemplate>
+                                            </ListBox>
+                                        </Popup>
+                                    </Grid>
+                                </ControlTemplate>
+                            </ComboBox.Template>
+
+
+                        </ComboBox>
+                    </Border>
+                </ControlTemplate>
+            </ToggleButton.Template>
+        </ToggleButton>
+        <ListBox
+            Grid.Row="1"
+                ItemsSource="{Binding CategoryExpensesProp}" 
+                SelectedValue="{Binding SelectedCategoryName}"
+                SelectedValuePath="Name"
+                VerticalAlignment="Bottom"
+            Height="100">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+
+            <ListBox.Template>
+                <ControlTemplate TargetType="ListBox">
+                    <Border 
+                BorderThickness="1" 
+                BorderBrush="Blue" 
+                CornerRadius="10" 
+                Background="Aquamarine"
+                        Padding="10">
+
+                        <ItemsPresenter />
+                    </Border>
+                </ControlTemplate>
+            </ListBox.Template>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="Focusable" Value="True" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListBoxItem">
+                                <Grid Background="Transparent" >
+                                    <RadioButton Width="70" Height="70" VerticalAlignment="Center">
+                                        <RadioButton.Template>
+                                            <ControlTemplate TargetType="RadioButton">
+                                                <Grid >
+                                                    <Canvas>
+                                                        <!-- Hộp chính (được phóng to và dịch chuyển khi hover vào) -->
+                                                        <Border x:Name="MainBox" 
+         Background="Transparent"
+         BorderBrush="Transparent"
+         BorderThickness="1"
+         CornerRadius="10"
+         Width="70"
+         Height="70"
+         Opacity="0.5">
+                                                            <!-- Thêm bóng đổ cho hiệu ứng 3D -->
+                                                            <Border.Effect>
+                                                                <DropShadowEffect x:Name="BoxShadow"
+                           Color="Black"
+                           Direction="270"
+                           ShadowDepth="5"
+                           Opacity="0"/>
+                                                            </Border.Effect>
+
+                                                            <Border.RenderTransform>
+                                                                <TransformGroup>
+                                                                    <!-- Phóng to từ trung tâm -->
+                                                                    <ScaleTransform x:Name="ScaleTransform" ScaleX="1" ScaleY="1"/>
+                                                                    <!-- Dịch chuyển theo trục Y khi hover -->
+                                                                    <TranslateTransform x:Name="TranslateTransform" X="0" Y="0"/>
+                                                                </TransformGroup>
+                                                            </Border.RenderTransform>
+                                                            <Border.RenderTransformOrigin>
+                                                                <!-- Đảm bảo phần tử phóng to từ trung tâm -->
+                                                                <Point X="0.5" Y="0.5"/>
+                                                            </Border.RenderTransformOrigin>
+                                                        </Border>
+                                                    </Canvas>
+
+                                                    <!-- Nội dung bên trong -->
+                                                    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                                        <Image Source="{Binding Image}" Width="40" Height="40"/>
+                                                        <TextBlock Text="{Binding Name}" 
+      TextWrapping="Wrap"
+    
+Foreground="Black"
+FontSize="12"
+TextAlignment="Center"
+Margin="0,5,0,0"/>
+                                                    </StackPanel>
+                                                </Grid>
+
+                                                <!-- Hiệu ứng hover -->
+                                                <ControlTemplate.Triggers>
+                                                    <Trigger Property="IsMouseOver" Value="True">
+                                                        <Trigger.EnterActions>
+                                                            <BeginStoryboard>
+                                                                <Storyboard>
+
+                                                                    <!-- Đổi màu Background -->
+                                                                    <ColorAnimation Storyboard.TargetName="MainBox"
+            Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)"
+            To="AliceBlue" Duration="0:0:0.2"/>
+
+                                                                    <!-- Đổi màu BorderBrush -->
+                                                                    <ColorAnimation Storyboard.TargetName="MainBox"
+            Storyboard.TargetProperty="(Border.BorderBrush).(SolidColorBrush.Color)"
+            To="#3E3E3E" Duration="0:0:0.2"/>
+
+                                                                    <!-- Phóng to từ trung tâm -->
+                                                                    <DoubleAnimation Storyboard.TargetName="ScaleTransform"
+                         Storyboard.TargetProperty="ScaleX"
+                         To="1.1" Duration="0:0:0.2"/>
+                                                                    <DoubleAnimation Storyboard.TargetName="ScaleTransform"
+                         Storyboard.TargetProperty="ScaleY"
+                         To="1.1" Duration="0:0:0.2"/>
+
+                                                                    <!-- Hiển thị bóng đổ khi hover -->
+                                                                    <DoubleAnimation Storyboard.TargetName="BoxShadow"
+                         Storyboard.TargetProperty="Opacity"
+                         To="1" Duration="0:0:0.2"/>
+                                                                </Storyboard>
+                                                            </BeginStoryboard>
+                                                        </Trigger.EnterActions>
+                                                        <Trigger.ExitActions>
+                                                            <BeginStoryboard>
+                                                                <Storyboard>
+                                                                    <!-- Đổi màu Background -->
+                                                                    <ColorAnimation Storyboard.TargetName="MainBox"
+            Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)"
+            To="Transparent" Duration="0:0:0.2"/>
+
+                                                                    <!-- Đổi màu BorderBrush -->
+                                                                    <ColorAnimation Storyboard.TargetName="MainBox"
+            Storyboard.TargetProperty="(Border.BorderBrush).(SolidColorBrush.Color)"
+            To="Transparent" Duration="0:0:0.2"/>
+
+                                                                    <!-- Thu nhỏ hộp chính khi bỏ chuột ra -->
+                                                                    <DoubleAnimation Storyboard.TargetName="ScaleTransform"
+                         Storyboard.TargetProperty="ScaleX"
+                         To="1" Duration="0:0:0.2"/>
+                                                                    <DoubleAnimation Storyboard.TargetName="ScaleTransform"
+                         Storyboard.TargetProperty="ScaleY"
+                         To="1" Duration="0:0:0.2"/>
+
+                                                                    <!-- Dịch chuyển về vị trí cũ -->
+                                                                    <DoubleAnimation Storyboard.TargetName="TranslateTransform"
+                         Storyboard.TargetProperty="Y"
+                         To="0" Duration="0:0:0.2"/>
+
+                                                                    <!-- Ẩn bóng đổ khi bỏ chuột -->
+                                                                    <DoubleAnimation Storyboard.TargetName="BoxShadow"
+                         Storyboard.TargetProperty="Opacity"
+                         To="0" Duration="0:0:0.2"/>
+
+                                                                </Storyboard>
+                                                            </BeginStoryboard>
+                                                        </Trigger.ExitActions>
+                                                    </Trigger>
+                                                </ControlTemplate.Triggers>
+                                            </ControlTemplate>
+                                        </RadioButton.Template>
+                                    </RadioButton>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                  
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ListBox.ItemContainerStyle>
+      
+            </ListBox>
+   
+
+    </Grid>
+</UserControl>

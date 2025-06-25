@@ -1,0 +1,138 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:page="clr-namespace:Finance_Pro.Pages" 
+                    xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+                    xmlns:mv="clr-namespace:Finance_Pro.Dashboard" 
+                    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity">
+    <!--#region Desktop layout-->
+    <DataTemplate x:Key="Menu">
+        <Border CornerRadius="5,0,0,5">
+            <Grid x:Name="GridParrentMenu"
+              Width="{Binding WidthMainGrid}"
+              HorizontalAlignment="Left"
+              Background="#F3F3F3">
+            <StackPanel
+                x:Name="Menu1"
+                Tag="MaxMenu">
+                <StackPanel
+                    Orientation="Vertical">
+                    <Button
+                        x:Name="Logo"
+                        BorderThickness="0"
+                        Background="Transparent"
+                        Width="{Binding WidthLogo}"
+                        Margin="0,30,0,0">
+                        <Image Source="/assets/logo.png" Stretch="Uniform"/>
+                    </Button>
+                    <TextBlock
+                        x:Name="txtLogo"
+                        Margin="5,0,0,20"
+                        Text="Finance Pro"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center"
+                        FontSize="{Binding SizetxtLogo}"
+                        TextWrapping="Wrap"
+                        TextAlignment="Center"
+                        FontFamily="Montserrat"
+                        FontWeight="Bold"
+                        Foreground="Red"/>
+                </StackPanel >
+                <mv:btnSelectTab
+                    Content="Dashboard"
+                    Icon="ViewDashboard"
+                    Foreground="Aqua"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"
+                    Command="{Binding ChooseTab}"
+                    CommandParameter="select_Dashboard"/>
+                <mv:btnSelectTab
+                    Content="Budget"
+                    Icon="BankCircleOutline"
+                    Foreground="Goldenrod"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"
+                    Command="{Binding ChooseTab}"
+                    CommandParameter="select_Budget"/>
+                <mv:btnSelectTab
+                    Content="Reality"
+                    Icon="ReceiptTextEditOutline"
+                    Foreground="Red"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"
+                    Command="{Binding ChooseTab}"
+                    CommandParameter="select_Reality"/>
+                <mv:btnSelectTab
+                    Content="Statistics"
+                    Icon="Finance"
+                    Foreground="DarkBlue"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"
+                    Command="{Binding ChooseTab}"
+                    CommandParameter="select_Statistics"/>
+                <mv:btnSelectTab
+                    Content="Utilities"
+                    Icon="GoogleCirclesExtended"
+                    Foreground="PaleVioletRed"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"
+                    Command="{Binding ChooseTab}"
+                    CommandParameter="select_Utilities"/>
+            </StackPanel>
+
+            <StackPanel
+                x:Name="Menu2"
+                VerticalAlignment="Bottom"
+                Grid.Row="1">
+
+                <mv:btnSelectTab
+                    Content="Setting"
+                    Icon="Cog"
+                    Foreground="Red"
+                    VerticalAlignment="Bottom"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"/>
+
+                <mv:btnSelectTab
+                    Content="LogOut"
+                    Icon="Logout"
+                    Foreground="Red"
+                    StatusMenu="{Binding StatusMenu}"
+                    Style="{DynamicResource btn_TabSelect}"/>
+
+                <StackPanel
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Center">
+                    <Button
+                    x:Name="btnHideMenu"
+                    Foreground="Yellow"
+                    Content="CircleSmall"
+                    VerticalAlignment="Bottom"
+                    Style="{DynamicResource CircleButtonTraffic}"
+                    Command="{Binding ChangeSizeMenu}"
+                    CommandParameter="btnHideMenu"/>
+
+                    <Button
+                    x:Name="btnMiniMenu"
+                    Foreground="Green"
+                    Content="CircleSmall"
+                    VerticalAlignment="Bottom"
+                    Style="{DynamicResource CircleButtonTraffic}"
+                    Command="{Binding ChangeSizeMenu}"
+                    CommandParameter="btnMiniMenu"/>
+                    <Button
+                    x:Name="btnMaxMenu"
+                    Foreground="Red"
+                    Content="Circle"
+                    VerticalAlignment="Bottom"
+                    Style="{DynamicResource CircleButtonTraffic}"
+                    Command="{Binding ChangeSizeMenu}"
+                    CommandParameter="btnMaxMenu"/>
+                </StackPanel>
+            </StackPanel>
+            </Grid>
+        </Border>
+    </DataTemplate>
+  
+
+    <!--#endregion-->
+</ResourceDictionary>

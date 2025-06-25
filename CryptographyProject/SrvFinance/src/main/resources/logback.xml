@@ -1,0 +1,16 @@
+<configuration>
+    <!-- Tắt log cho HikariCP -->
+    <logger name="com.zaxxer.hikari" level="OFF"/>
+
+    <!-- Cấu hình root logger tùy ý -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE" />
+    </root>
+
+    <!-- Appender cho console -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+</configuration>

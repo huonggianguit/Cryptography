@@ -1,0 +1,288 @@
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.exe
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.dll.config
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.deps.json
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.runtimeconfig.json
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.pdb
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.csproj.AssemblyReference.cache
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Assets\Icons.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardWindow.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\LoginWindow.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\ToggleLoginButton.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\UC_TextboxLogin.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\App.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro_MarkupCompile.cache
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro_MarkupCompile.lref
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\App.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardTemplates.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardWindow.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\LoginWindow.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\ToggleLoginButton.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\UC_TextboxLogin.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.g.resources
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.AssemblyInfoInputs.cache
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.AssemblyInfo.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.csproj.CoreCompileInputs.cache
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance .4889959F.Up2Date
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\refint\Finance Pro.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.pdb
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.genruntimeconfig.cache
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\ref\Finance Pro.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Pages\Reality\btnMainGroup.g.cs
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Pages\Reality\btnMainGroup.baml
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\test.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\test.baml
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\UserControl1.g.cs
+E:\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.exe
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.dll.config
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.deps.json
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.runtimeconfig.json
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Finance Pro.pdb
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.csproj.AssemblyReference.cache
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Assets\Icons.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardWindow.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\LoginWindow.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\ToggleLoginButton.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\UC_TextboxLogin.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Pages\Reality\btnMainGroup.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\UserControl1.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro_MarkupCompile.cache
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro_MarkupCompile.lref
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\App.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardTemplates.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Dashboard\DashboardWindow.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\LoginWindow.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\ToggleLoginButton.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Login\UC_TextboxLogin.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Pages\Reality\btnMainGroup.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\test.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\UserControl1.baml
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.g.resources
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.AssemblyInfoInputs.cache
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.AssemblyInfo.cs
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.csproj.CoreCompileInputs.cache
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance .4889959F.Up2Date
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\refint\Finance Pro.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.pdb
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\Finance Pro.genruntimeconfig.cache
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\obj\Debug\net8.0-windows\ref\Finance Pro.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\nnaxk\Desktop\Finance Pro\Finance Pro\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll

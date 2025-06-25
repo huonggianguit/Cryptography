@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\theimitationgame\\turing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\theimitationgame\\turing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\mysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\mysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\dashboard\\dashboardwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\dashboard\\dashboardwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\theimitationgame\\generatesearchkeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\theimitationgame\\generatesearchkeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\messagecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\messagecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\dashboard\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\dashboard\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\ioutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\ioutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\serverconnect\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\serverconnect\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\dashboard\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\dashboard\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\finance pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\finance pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\dashboard\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\dashboard\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|c:\\users\\nnaxk\\desktop\\finance pro\\finance pro\\data\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA46A98B-42BA-4465-9F76-66A5DE34279C}|Finance Pro\\Finance Pro.csproj|solutionrelative:finance pro\\data\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Services.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\Services.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Services.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\Services.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:22:14.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turing.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\TheImitationGame\\Turing.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\TheImitationGame\\Turing.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\TheImitationGame\\Turing.cs",
+              "RelativeToolTip": "Finance Pro\\TheImitationGame\\Turing.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAASwNkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:03:12.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\Dashboard\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "Finance Pro\\Dashboard\\DashboardWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:46:26.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\ServerConnection.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\ServerConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:25:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateSearchKeywords.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\TheImitationGame\\GenerateSearchKeywords.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\TheImitationGame\\GenerateSearchKeywords.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\TheImitationGame\\GenerateSearchKeywords.cs",
+              "RelativeToolTip": "Finance Pro\\TheImitationGame\\GenerateSearchKeywords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:43:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Message.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\Message.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Message.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\Message.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwNoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:16:38.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MessageSender.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\MessageSender.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MessageSender.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\MessageSender.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:08:59.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageCollector.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MessageCollector.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\MessageCollector.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MessageCollector.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\MessageCollector.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAywEcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:09:18.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\IOUtils.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\IOUtils.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\IOUtils.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\IOUtils.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAywD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:58:19.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Controller.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\Controller.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\Controller.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\Controller.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwL0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:56:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySession.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MySession.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\ServerConnect\\MySession.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\ServerConnect\\MySession.cs",
+              "RelativeToolTip": "Finance Pro\\ServerConnect\\MySession.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAWwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:30:43.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Finance Pro\\Dashboard\\DashboardWindow.xaml",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardWindow.xaml",
+              "RelativeToolTip": "Finance Pro\\Dashboard\\DashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T15:46:41.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Finance Pro.csproj",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Finance Pro.csproj",
+              "RelativeDocumentMoniker": "Finance Pro\\Finance Pro.csproj",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Finance Pro.csproj",
+              "RelativeToolTip": "Finance Pro\\Finance Pro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T17:46:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\App.xaml",
+              "RelativeDocumentMoniker": "Finance Pro\\App.xaml",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\App.xaml",
+              "RelativeToolTip": "Finance Pro\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T01:56:41.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\FileItem.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\Dashboard\\FileItem.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\FileItem.cs",
+              "RelativeToolTip": "Finance Pro\\Dashboard\\FileItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:07:07.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\App.xaml.cs",
+              "RelativeToolTip": "Finance Pro\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:05:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\Dashboard\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Dashboard\\DashboardViewModel.cs",
+              "RelativeToolTip": "Finance Pro\\Dashboard\\DashboardViewModel.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:54:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectSQL.cs",
+              "DocumentMoniker": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Data\\ConnectSQL.cs",
+              "RelativeDocumentMoniker": "Finance Pro\\Data\\ConnectSQL.cs",
+              "ToolTip": "C:\\Users\\nnaxk\\Desktop\\Finance Pro\\Finance Pro\\Data\\ConnectSQL.cs",
+              "RelativeToolTip": "Finance Pro\\Data\\ConnectSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:47:49.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

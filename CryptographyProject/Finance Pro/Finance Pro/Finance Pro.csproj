@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Finance_Pro</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest></ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\BackGroundLogin.jpg" />
+    <None Remove="Assets\ButBack1.png" />
+    <None Remove="Assets\ButBack2.png" />
+    <None Remove="Assets\Categorization.png" />
+    <None Remove="Assets\DashboardIcon.ico" />
+    <None Remove="Assets\dashboard_layout_480px.png" />
+    <None Remove="Assets\Down_Arrow_MouseOver.png" />
+    <None Remove="Assets\heartupsidedown.png" />
+    <None Remove="Assets\heartupsideup.png" />
+    <None Remove="Assets\Logo.png" />
+    <None Remove="Assets\Logo2.png" />
+    <None Remove="Assets\PassIcon.png" />
+    <None Remove="Assets\Thumb_Icon_Default.png" />
+    <None Remove="Assets\Thumb_Icon_MouseOver.png" />
+    <None Remove="Assets\ToggleBut1.png" />
+    <None Remove="Assets\ToggleBut2.png" />
+    <None Remove="Assets\Up_Arrow_MouseOver.png" />
+    <None Remove="Assets\UserIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="5.1.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.WindowsAPICodePack.Shell" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.135" />
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+    <PackageReference Include="MySql.Data" Version="9.1.0" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\BackGroundLogin.jpg" />
+    <Resource Include="Assets\ButBack1.png" />
+    <Resource Include="Assets\ButBack2.png" />
+    <Resource Include="Assets\Categorization.png" />
+    <Resource Include="Assets\DashboardIcon.ico" />
+    <Resource Include="Assets\dashboard_layout_480px.png" />
+    <Resource Include="Assets\Down_Arrow_MouseOver.png" />
+    <Resource Include="Assets\heartupsidedown.png" />
+    <Resource Include="Assets\heartupsideup.png" />
+    <Resource Include="Assets\Logo.png" />
+    <Resource Include="Assets\Logo2.png" />
+    <Resource Include="Assets\PassIcon.png" />
+    <Resource Include="Assets\Thumb_Icon_Default.png" />
+    <Resource Include="Assets\Thumb_Icon_MouseOver.png" />
+    <Resource Include="Assets\ToggleBut1.png" />
+    <Resource Include="Assets\ToggleBut2.png" />
+    <Resource Include="Assets\Up_Arrow_MouseOver.png" />
+    <Resource Include="Assets\UserIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CustomControls\" />
+  </ItemGroup>
+
+</Project>
